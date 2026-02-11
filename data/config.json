@@ -1,0 +1,10 @@
+{
+  "groupUrl": "https://vk.com/666",
+  "stateTreasury": 0,
+  "dailyBonusEnabled": true,
+  "transferCooldown": 600000,
+  "workCooldown": 3600000,
+  "caseCooldown": 86400000,
+  "adminIds": [АЙДИ АДМИНА],   
+  "vipIds": []
+}    
