@@ -1,0 +1,19 @@
+{
+  "name": "RegenBot",
+  "version": "1.0.0",
+  "description": "Игровой говнобот на говнокоде для ВКонтакте",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": ["vk", "bot", "economy"],
+  "author": "Regen",
+  "license": "MIT",
+  "dependencies": {
+    "vk-io": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
